@@ -7,7 +7,7 @@
 
 # Todo List
 
-* [] nnUnet code reading
+* [ ] nnUnet code reading
 
 # Papers:
 
