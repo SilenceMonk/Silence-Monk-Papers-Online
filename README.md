@@ -30,11 +30,13 @@
 |2015|MIT|OBJECT DETECTORS EMERGE IN DEEP SCENE CNNS| |[ICLR](papers/OBJECT.pdf)|[Summary](paper-summary/3.md)   |
 |   |Gatech|Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| |[arXiv](papers/Grad-CAM.pdf)|[Summary](paper-summary/4.md)   |
 |2015|Berkley|Hypercolumns for Object Segmentation and Fine-grained Localization| |[CVPR](papers/Hariharan.pdf)|[Summary](paper-summary/Hariharan-s.md)   |
+|2020|   |Semi-Supervised Semantic Segmentation with Cross-Consistency Training|[Code](https://github.com/yassouali/CCT)|[CVPR](papers/Semi.pdf)|    |
+|2020|Google|Rethinking Pre-training and Self-training|[Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training)|[NIPS](papers/Rethinking.pdf)|[Summary](paper-summary/Semi-s.md)|
 
 ## semi-supervised 3D medical segmentation:
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
-
+|   |   |3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation|[Code](https://github.com/lee-zq/3DUNet-Pytorch)|[MICCAI](papers/3D-U-Net.pdf)|[Summary]()    |
 ## others
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
