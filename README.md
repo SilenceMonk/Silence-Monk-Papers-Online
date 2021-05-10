@@ -31,7 +31,7 @@
 |   |Gatech|Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| |[arXiv](papers/Grad-CAM.pdf)|[Summary](paper-summary/4.md)   |
 |2015|Berkley|Hypercolumns for Object Segmentation and Fine-grained Localization| |[CVPR](papers/Hariharan.pdf)|[Summary](paper-summary/Hariharan-s.md)   |
 
-## semi-supervised 3D segmentation(medical):
+## semi-supervised 3D medical segmentation:
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
 
