@@ -10,6 +10,8 @@
 ![](images/2021-05-10_082312.png)
 
 ## Methods
+* small trick
+![](images/2021-05-10_143114.png)
 
 ## Experiments
 

@@ -2,20 +2,28 @@
 
 # [PSEUDOSEG: DESIGNING PSEUDO LABELS FOR SEMANTIC SEGMENTATION](../papers/PSEUDOSEG.pdf)
 
+## Related works*
+* FixMatch
+* [Grad-CAM](../papers/Grad-CAM.pdf), [Code](https://github.com/ramprs/grad-cam/), [Summary](4.md)
+* [hypercolumn](../papers/Hariharan.pdf), [Summary](../paper-summary/Hariharan-s.md)
+* self-attention dot product
+  * [598_FA2020_lecture13.pdf](../papers/598_FA2020_lecture13.pdf)
+    ![](images/2021-05-10_112540.png)
+      
+  * [Attention Is All You Need](../papers/Attention.pdf), [Summary](Attention-s.md)
+    ![](images/2021-05-10_102239.png)
+
 
 ## Overview
 
 ![](https://i.loli.net/2021/05/09/S5gnqlyHeGZhjL6.png)
+![](images/2021-05-10_081302.png)
+![](images/2021-05-10_135636.png)
 
 
 
 * [x] _follow FixMatch_
 
-## Related works*
-* FixMatch
-* [Grad-CAM](../papers/Grad-CAM.pdf), [Code](https://github.com/ramprs/grad-cam/), [Summary](4.md)
-* [hypercolumn](../papers/Hariharan.pdf), [Summary](../paper-summary/Hariharan-s.md)
-![](images/2021-05-10_081302.png)
 
    
 ## Related Work
@@ -60,7 +68,21 @@ better-calibrated version of pseudo labels.
    
 2. learning localization: [Grad-CAM](../papers/Grad-CAM.pdf) -> [Summary](4.md)
 
+3. Calibrated prediction fusion
+![](images/2021-05-10_132918.png)
+![](images/2021-05-10_132928.png)
 
+4. strong data augmentation:
+    * SimCLR
+
+## experiment
+
+* ### ablation
+![](images/2021-05-10_140718.png)
+
+
+## Questions
+1. add Attention directly in decoder module, use co-training from different view?
 
               
 

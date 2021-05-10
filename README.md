@@ -35,6 +35,10 @@
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
 
+## others
+|Date|organization|Title|Code|Conference|Summary|
+|---|---|---|---|---|---|
+|2017|Google|Attention Is All You Need| |[NIPS](papers/Attention.pdf)|  |
 
 
 
