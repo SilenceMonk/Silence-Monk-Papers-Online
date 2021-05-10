@@ -14,6 +14,8 @@
 ## Related works*
 * FixMatch
 * [Grad-CAM](../papers/Grad-CAM.pdf), [Code](https://github.com/ramprs/grad-cam/), [Summary](4.md)
+* [hypercolumn](../papers/Hariharan.pdf), [Summary](../paper-summary/Hariharan-s.md)
+![](images/2021-05-10_081302.png)
 
    
 ## Related Work
