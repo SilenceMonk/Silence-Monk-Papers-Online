@@ -15,7 +15,7 @@
 
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
-|2021-3|Google|Meta Pseudo Labels|  |[arXiv](papers/Meta.pdf)|  |
+|2021-3|Google|Meta Pseudo Labels|[Code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)|[arXiv](papers/Meta.pdf)|  |
 
 
 ## semi-supervised 2D segmentation:

@@ -66,7 +66,7 @@ used as the target to train a separate segmentation network.
 1. we seek for a distinct yet efficient decision mechanisms to compensate for the potential errors of decoder outputs. Second, wisely fusing multiple sources of predictions to generate an ensemble and
 better-calibrated version of pseudo labels.
    
-2. learning localization: [Grad-CAM](../papers/Grad-CAM.pdf)|[Summary](4.md)
+2. learning localization: [Grad-CAM](../papers/Grad-CAM.pdf) | [Summary](4.md)
 
 3. Calibrated prediction fusion
 ![](images/2021-05-10_132918.png)
