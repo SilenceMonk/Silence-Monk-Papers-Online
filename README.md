@@ -36,7 +36,7 @@
 ## semi-supervised 3D medical segmentation:
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
-|   |   |3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation|[Code](https://github.com/lee-zq/3DUNet-Pytorch)|[MICCAI](papers/3D-U-Net.pdf)|[Summary]()    |
+|   |   |3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation|[Code](https://github.com/lee-zq/3DUNet-Pytorch)|[MICCAI](papers/3D-U-Net.pdf)|[Summary](paper-summary/3D-U-Net.md)    |
 ## others
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
