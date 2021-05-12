@@ -5,7 +5,7 @@
 ## Related works
 * FixMatch
 * [Grad-CAM](../papers/Grad-CAM.pdf) | [Code](https://github.com/ramprs/grad-cam/) | [Summary](4.md)
-* [hypercolumn](../papers/Hariharan.pdf) | [Summary](../paper-summary/Hariharan-s.md)
+* [hypercolumn](../papers/Hariharan.pdf) | [Summary](/Hariharan-s.md)
 * self-attention dot product
   * [598_FA2020_lecture13.pdf](../papers/598_FA2020_lecture13.pdf)
     ![](images/2021-05-10_112540.png)
@@ -78,7 +78,7 @@ better-calibrated version of pseudo labels.
 ## experiment
 
 ![](images/2021-05-10_152218.png)
-[Rethinking Pre-training and Self-training](../papers/Rethinking.pdf) | [Summary](../paper-summary/Rethinking-s.md)
+[Rethinking Pre-training and Self-training](../papers/Rethinking.pdf) | [Summary](Rethinking.md)
 * ### ablation
 ![](images/2021-05-10_140718.png)
 

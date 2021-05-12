@@ -6,14 +6,16 @@
 * [pseudoSeg](../papers/PSEUDOSEG.pdf), [Summary](PSEUDOSEG-s.md)
 
 ## Overview
-
+self-training can better leverage data augmentation than pre-training   
 ## Methods
 * trick for self-training
 ![](images/2021-05-10_154510.png)
 
 ## Experiments
 
-## Conclusion
+## Contribution
+* self-training actually works
+* SOTA on COCO using self-training leveraging ImageNet 
 
 ## Questions
 
