@@ -5,7 +5,7 @@
 ## Related works
 * FixMatch
 * [Grad-CAM](../papers/Grad-CAM.pdf) | [Code](https://github.com/ramprs/grad-cam/) | [Summary](4.md)
-* [hypercolumn](../papers/Hariharan.pdf) | [Summary](/Hariharan-s.md)
+* [hypercolumn](../papers/Hariharan.pdf) | [Summary](../summary/Hariharan-s.md)
 * self-attention dot product
   * [598_FA2020_lecture13.pdf](../papers/598_FA2020_lecture13.pdf)
     ![](images/2021-05-10_112540.png)
@@ -70,6 +70,7 @@ better-calibrated version of pseudo labels.
 
 3. Calibrated prediction fusion
 ![](images/2021-05-10_132918.png)
+* avoid over-confidence
 ![](images/2021-05-10_132928.png)
 
 4. strong data augmentation:

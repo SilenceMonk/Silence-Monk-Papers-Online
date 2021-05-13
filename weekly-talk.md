@@ -11,6 +11,7 @@
 # week-11
 
 ### Todo List
+* [x] slurm gpu toy example
 * [ ] nnUnet code reading
 
 ### Papers:
@@ -40,12 +41,15 @@
 ### others
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
-|2017|Google|Attention Is All You Need| |[NIPS](papers/Attention.pdf)|  |
-|1992|   |Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning| |[ML](papers/Simple.pdf)|  |
 
+### questions
+major conferences and their DDLs ?
 
-
-
+### next week
+* solve Slurm issues
+* code up the overall medical PL framework
+* keep up paper reading
+* ML basics !
 
 
 

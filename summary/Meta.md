@@ -4,7 +4,7 @@
 
 ## Related works
 * UDA
-![](images/v2-f626d7b167cc221b0cc2d0bdbb92d3cb_r.jpg)
+  ![](images/v2-f626d7b167cc221b0cc2d0bdbb92d3cb_r.jpg)
 * REINFORCE equation
     * [Policy Gradient](https://towardsdatascience.com/policy-gradient-methods-104c783251e0) 
       
