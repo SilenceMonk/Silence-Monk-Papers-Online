@@ -46,7 +46,13 @@
 |2017|Google|Attention Is All You Need| |[NIPS](papers/Attention.pdf)|  |
 |1992|   |Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning| |[ML](papers/Simple.pdf)|  |
 
-
+# git push
+```
+git init
+git config --global https.proxy [http://127.0.0.1:1080](http://127.0.0.1:1080/)
+git config --global https.proxy [https://127.0.0.1:1080](https://127.0.0.1:1080/)
+# add functional a VPN
+```
 
 
 
