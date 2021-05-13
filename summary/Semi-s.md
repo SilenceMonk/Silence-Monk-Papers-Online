@@ -7,6 +7,7 @@
 * [pseudoSeg](../papers/PSEUDOSEG.pdf), [Summary](PSEUDOSEG-s.md)
 
 ## Overview
+* perturbation on high dimensional features
 ![](images/2021-05-10_151901.png)
 
 
@@ -14,7 +15,8 @@
 
 ## Experiments
 
-## Conclusion
+## Contribution
+* New SOTA with complicated tricks
 
 ## Questions
 

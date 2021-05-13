@@ -15,7 +15,7 @@
 
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
-|2021-3|Google|Meta Pseudo Labels|[Code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)|[arXiv](papers/Meta.pdf)|  |
+|2021-3|Google|Meta Pseudo Labels|[Code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)|[arXiv](papers/Meta.pdf)|[Summary](summary/Meta.md)  |
 |2018|CCVL|Deep Co-Training for Semi-Supervised Image Recognition|   |[CVPR](papers/Deep.pdf)|[Summary](summary/Deep.md)|
 
 ## semi-supervised 2D segmentation:
@@ -44,7 +44,7 @@
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
 |2017|Google|Attention Is All You Need| |[NIPS](papers/Attention.pdf)|  |
-
+|1992|   |Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning| |[ML](papers/Simple.pdf)|  |
 
 
 
