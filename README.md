@@ -18,7 +18,14 @@
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
 |2021-3|Google|Meta Pseudo Labels|[Code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)|[arXiv](papers/Meta.pdf)|[Summary](summary/Meta.md)  |
-|2018|CCVL|Deep Co-Training for Semi-Supervised Image Recognition|   |[CVPR](papers/Deep.pdf)|[Summary](summary/Deep.md)|
+|2018|CCVL|Deep Co-Training for Semi-Supervised Image Recognition|   |[ECCV](papers/Deep.pdf)|[Summary](summary/Deep.md)|
+|2020|Google|FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence|    |[NIPS](papers/FixMatch.pdf)|   |
+|2017|CMU|Good Semi-supervised Learning That Requires a Bad GAN|[Code](https://github.com/kimiyoung/ssl_bad_gan)|[NIPS](papers/Good.pdf)|   |
+|2000|CMU|Analyzing the Effectiveness and Applicability of Co-training| |[CIKM](papers/Analyzing.pdf)|   |
+|2012|hust|Co-Transduction for Shape Retrieval| |[TIP](papers/Co.pdf)|  |
+|2021|  |Towards Better Accuracy-efficiency Trade-offs: Divide and Co-training| |[arXiv](papers/Towards.pdf)|   |
+|2017|  |Deep Mutual Learning|  |[CVPR](papers/DeepMutual.pdf)|[Summary](summary/DeepMutual.md) |
+|2015|Curious AI|Semi-Supervised Learning with Ladder Networks|   |[NIPS](papers/SemiSupervised.pdf)|[Summary](summary/SemiSupervised.md) |
 
 ## semi-supervised 2D segmentation:
 
@@ -41,13 +48,13 @@
 |   |CCVL|Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation||[Code](https://github.com/YingdaXia/SynthCP)|[ECCV](papers/Synthesize.pdf)|  |
 |   |CCVL|Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation|   |[arXiv](papers/Uncertainty.pdf)|[Summary](summary/Uncertainty.md)|
 |   |DeepMind|Automated Design of Deep Learning Methods for Biomedical Image Segmentation|[Code](https://github.com/Silence-Monk/nnUNet)|[arXiv](papers/Automated.pdf)|[Summary](summary/Automated.md)|
-
 ## others
 |Date|organization|Title|Code|Conference|Summary|
 |---|---|---|---|---|---|
 |2017|Google|Attention Is All You Need| |[NIPS](papers/Attention.pdf)|  |
 |1992|   |Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning| |[ML](papers/Simple.pdf)|  |
-
+|2019|Google|AutoAugment: Learning Augmentation Strategies from Data| |[CVPR](papers/AutoAugment.pdf)|  |
+|2020|Google|A Simple Framework for Contrastive Learning of Visual Representations|[Code](https://github.com/google-research/simclr)|[ICML](papers/A.pdf)|  |
 # git push
 ```
 git init
